@@ -13,3 +13,4 @@
 - Process_distance = calculate distance for each restaurant to the nearest 5 college campuses
 - rest_sample_state.csv = processed dataset from process_distance notebook 
 - rest_state_data.csv = processed dataset from Data_Processing_state notebook 
+- ML_Project_Final = determine if there is a relationship between ratings and proximity to college campus
